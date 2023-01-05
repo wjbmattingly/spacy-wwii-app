@@ -1,4 +1,4 @@
 spacy
 spacy-streamlit
-en_ww2spacy
+en_ww2spacy==0.0.9
 toml

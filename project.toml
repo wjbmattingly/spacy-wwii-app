@@ -1,33 +1,53 @@
 [colors]
-AMPHIBIOUS_VESSEL = "#8ac3c2"
-ANTI_TANK = "#e39da2"
-ARMORED_DIVISION = "#c6cd98"
-BATTALION = "#c6cd98"
-BATTLE = "#d6e39d"
-BATTLESHIP = "#8ac3c2"
-BLADE = "#e39da2"
-CAMP = "#7424ce"
-CARRIER = "#8ac3c2"
-CARRIER_ESCORT = "#8ac3c2"
-CAVALRY = "#c6cd98"
-CRUISER = "#8ac3c2"
-DESTROYER = "#8ac3c2"
-FLAMETHROWER = "#e39da2"
-FRIGATE_DESTROYER_ESCORT = "#8ac3c2"
-GHETTO = "#eb2c4f"
-GRENADE = "#e39da2"
-GUNBOAT = "#8ac3c2"
-INFANTRY_DIVISION = "#c6cd98"
-MACHINE_GUN = "#e39da2"
-MILITARY_PERSONNEL = "#8682a3"
-MINE_VESSEL = "#8ac3c2"
-MORTAR = "#a87b0c"
-MOUNTAIN_DIVISION = "#c6cd98"
-OPERATION = "#e99341"
-PISTOL = "#e39da2"
-PLANE = "#da7662"
-RIFLE = "#e39da2"
-SHOTGUN = "#e39da2"
-SUBMACHINE_GUN = "#e39da2"
-SUBMARINE = "#8ac3c2"
-TANK = "#3ecc21"
+## MILITARY UNITS
+### AMERICAN
+ARMY_GROUP = "#ffb6b6"
+CORPS = "#ffb6b6"
+FIELD_ARMY = "#ffb6b6"
+AIRBORN_DIVISION = "#ffb6b6"
+ARMORED_DIVISION = "#ffb6b6"
+INFANTRY_DIVISION = "#ffb6b6"
+MOUNTAIN_DIVISION = "#ffb6b6"
+BATTALION = "#ffb6b6"
+CAVALRY = "#ffb6b6"
+
+## EVENTS
+### MILITARY
+BATTLE = "#ffe9b6"
+OPERATION = "#ffe9b6"
+
+## PLACES
+### HOLOCAUST
+CAMP = "#dcffb6"
+GHETTO = "#dcffb6"
+
+## VEHICLES
+### AMERICAN
+AMPHIBIOUS_VESSEL = "#b6ffe4"
+BATTLESHIP = "#b6ffe4"
+CARRIER = "#b6ffe4"
+CARRIER_ESCORT = "#b6ffe4"
+CRUISER = "#b6ffe4"
+DESTROYER = "#b6ffe4"
+FRIGATE_DESTROYER_ESCORT = "#b6ffe4"
+GUNBOAT = "#b6ffe4"
+MINE_VESSEL = "#b6ffe4"
+PLANE = "#b6ffe4"
+SUBMARINE = "#b6ffe4"
+TANK = "#b6ffe4"
+
+## WEAPONS
+### AMERICAN
+ANTI_TANK = "#b6dcff"
+BLADE = "#b6dcff"
+FLAMETHROWER = "#b6dcff"
+GRENADE = "#b6dcff"
+MACHINE_GUN = "#b6dcff"
+MORTAR = "#b6dcff"
+PISTOL = "#b6dcff"
+RIFLE = "#b6dcff"
+SHOTGUN = "#b6dcff"
+SUBMACHINE_GUN = "#b6dcff"
+
+# MISC
+MILITARY_PERSONNEL = "#ffb6f8"
