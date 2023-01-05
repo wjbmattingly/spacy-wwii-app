@@ -3,8 +3,10 @@ from spacy_streamlit import visualize_spans
 import spacy
 import toml
 
+
 st.image("https://github.com/wjbmattingly/ww2-spacy/raw/main/images/header.png")
-st.write("Currently using en_ww2spacy version 0.0.8")
+
+st.markdown("Currently using version: <a href='https://pypi.org/project/en_ww2spacy/'>![PyPI - PyPi](https://img.shields.io/pypi/v/en_ww2spacy)</a>", unsafe_allow_html=True)
 with open("default_text.txt", "r") as f:
     default_text = f.read()
 
