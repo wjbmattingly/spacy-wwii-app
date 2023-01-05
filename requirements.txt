@@ -1,0 +1,4 @@
+spacy
+spacy-streamlit
+en_ww2spacy
+toml
